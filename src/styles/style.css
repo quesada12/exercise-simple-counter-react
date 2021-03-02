@@ -1,0 +1,13 @@
+.box{
+    display: flex;
+     align-items: center;
+     justify-content: center;
+    min-width: 100px;
+    background: black;
+    font-size: 60px;
+    height: 200px;
+    color: white;
+    margin:10px;
+    border: 2px darkslategray solid;
+    border-radius: 5%;
+}
